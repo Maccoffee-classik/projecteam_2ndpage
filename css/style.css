@@ -7,6 +7,10 @@ body {
   color: #2A3043;
 }
 
+.header_area .container {
+  padding-left: 9px;
+}
+
 .start-window-with-pop {
   height: 100vh;
   background: linear-gradient(223.86deg, #E8218D 1.92%, #E4228E 1.92%, #E6228D 49.95%, #973F98 100%);
@@ -58,6 +62,10 @@ body {
   padding: 10px 38px;
   color: #ffffff;
   border: none;
+}
+
+.start-window-with-pop .pop-button:hover {
+  color: #495057;
 }
 
 .start-window-with-pop .reload {
